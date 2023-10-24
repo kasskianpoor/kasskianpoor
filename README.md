@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kasskianpoor, a passionate and driven software engineer with rigorous discipline.
+- 👋 Hi, I’m Kass (or Kiarash) Kianpoor, a passionate and driven software engineer with rigorous discipline.
 - 👀 I’m interested in programming, networking (as in five layer network model ;P), math, algorithms, psychology, and dance choreography. 
 - 🌱 As an ambitious senior full-stack developer, I'm actively dedicated to staying up-to-date with the latest client-side technologies, as I've already acquired proficiency in many of them. To accomplish this, my plan is to enhance my Vue.js skills by delving into the components API and exploring Angular through learning and experimentation. (Oct 2023)
 - 💞️ I’m looking to collaborate on I just love working in a supporting team and I love supporting my team. I believe in sweating and working hard together. Growing together makes learning faster and more fun. So if you want to work together reach out. 
